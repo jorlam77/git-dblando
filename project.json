@@ -1,0 +1,39 @@
+{
+  "title": "dblando",
+  "date": "14/08/20",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "dblando.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 1,
+  "mediaFiles": 13,
+  "totalSize": 1005344,
+  "files": [
+    "almohadon.png",
+    "dblando.jclic",
+    "dblando.jclic.js",
+    "esponja.png",
+    "favicon.ico",
+    "flan.png",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "ladrillo.png",
+    "pelota.png",
+    "piedra.png",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "sal.png",
+    "taza.png"
+  ]
+}
